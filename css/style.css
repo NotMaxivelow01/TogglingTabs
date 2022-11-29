@@ -1,0 +1,65 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ body {
+     background-color: #73b9ff;
+     width: 575px;
+     height: 120px;
+
+ }
+
+ #block {
+     background-color: white;
+     width: 550px;
+     height: 100px;
+     border-radius: 10px;
+     border: solid 2px #f1f1f1;
+     display: flex;
+     align-items: center;
+     justify-content: flex-start;
+     margin-left: 10px;
+ }
+
+ #button1 {
+     cursor: pointer;
+     background-color: white;
+     border: solid 2px #5796ff;
+     width: 120px;
+     height: 40px;
+     margin-left: 35px;
+     border-radius: 5px;
+ }
+
+ #button1:hover {
+     background-color: #d9e6fc;
+ }
+
+ #button2 {
+     cursor: pointer;
+     background-color: white;
+     border: solid 2px #5796ff;
+     width: 120px;
+     height: 40px;
+ }
+
+ #button2:hover {
+     background-color: #d9e6fc;
+ }
+
+ #button3 {
+     cursor: pointer;
+     background-color: white;
+     border: solid 2px #5796ff;
+     width: 120px;
+     height: 40px;
+     border-radius: 5px;
+ }
+
+ #button3:hover {
+     background-color: #d9e6fc;
+ }
+
+
+ /* contoure #5796ff, background bouton #d9e7f8, contour bouton selec #aecffd*/
