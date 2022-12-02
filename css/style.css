@@ -91,9 +91,9 @@
          cursor: pointer;
          background-color: white;
          border: solid 2px #5796ff;
-         width: 130px;
+         width: 170px;
          height: 40px;
-         border-radius: 0px 5px 5px 0px;    
+         border-radius: 0px 5px 5px 0px; 
      }
 
      #button3:hover {
